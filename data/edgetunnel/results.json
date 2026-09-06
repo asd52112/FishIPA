@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-09-06T03:30:56.346033+00:00",
+  "source": [
+    "https://www.cloudflare.com/ips-v4",
+    "https://www.cloudflare.com/ips-v6"
+  ],
+  "probe": "TLS handshake with SNI speed.cloudflare.com",
+  "tested": 5963,
+  "available": 0,
+  "kept": 0,
+  "results": []
+}
